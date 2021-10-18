@@ -1,0 +1,13 @@
+.landing-container{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.additional-text{
+    margin:0px 30px;
+    font-size:25px;
+    color:grey;
+    text-decoration-line: underline;
+}
